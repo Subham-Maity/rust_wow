@@ -26,5 +26,5 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 ## ▶️ Local Doc
 
 ```bash
-rustup doc
+rustup doc  
 ```
