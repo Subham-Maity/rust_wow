@@ -9,7 +9,7 @@ function HomepageHeader() {
     <header className={clsx(styles.heroBanner)}>
       <div className="container">
         <Heading as="h1" className="hero__title">
-          Frontend Interview Only
+          Rust 🔥
         </Heading>
         <div className={styles.buttons}>
           <Link
